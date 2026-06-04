@@ -3,6 +3,7 @@ public class Student {
     private String studentId;
     private String studentName;
     private double cgpa;
+    private String department;
     
     // Constructor
     public Student(String studentId, String studentName, double cgpa) {
